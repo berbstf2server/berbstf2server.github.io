@@ -9,6 +9,9 @@ i {
         margin: 0 auto;
         margin-top: 9px;
       }
+      h2 {
+        text-align: center;
+      }
       h1 {
         font-family:'TF2 Bold';
         text-align: center;
