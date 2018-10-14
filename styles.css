@@ -1,6 +1,13 @@
 i {background-color: #f7d1ad;}
 
 
+ul {
+      position: fixed;
+      top: 0;
+      width: 100%;
+}
+
+
 .button {
       font-family: 'TF2 Bold';
       background-color: darkorange;
