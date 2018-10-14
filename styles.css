@@ -8,7 +8,8 @@ p.left {
       padding-left: 6px;
 }
 
-h3.left {
+.left {
+      text-align: right;
       padding-left:6px;
 }
       
