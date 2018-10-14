@@ -5,13 +5,13 @@ p.left {
       font-family: 'TF2 Normal';
       text-align: left;
       text-size: 125%;
-      padding-left: 6px;
+      padding-left: 10px;
       background-color: #f7d1ad;
 }
 
 .left {
       text-align: left;
-      padding-left:6px;
+      padding-left:10px;
 }
       
 
