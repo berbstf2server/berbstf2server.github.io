@@ -1,11 +1,15 @@
 i {background-color: #f7d1ad;}
 
 
-p.right {
+p.left {
       font-family: 'TF2 Normal';
       text-align: left;
       text-size: 125%;
       padding-left: 6px;
+}
+
+h3.left {
+      padding-left:6px;
 }
       
 
