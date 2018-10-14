@@ -17,6 +17,12 @@ i {background-color: #f7d1ad;}
       margin: 4px 2px;
       cursor: pointer;
 }
+
+
+p.fixed {
+      position: fixed;
+}
+        
       
      
 .center {
