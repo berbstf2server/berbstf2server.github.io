@@ -3,8 +3,9 @@ i {background-color: #f7d1ad;}
 
 p.right {
       font-family: 'TF2 Normal';
-      text-align: right;
+      text-align: left;
       text-size: 125%;
+      padding-left: 6px;
 }
       
 
