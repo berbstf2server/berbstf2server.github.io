@@ -14,8 +14,24 @@ p.leftsmall {
       padding-left:10px;
 }
 
+.buttonnn {
+      font-family: 'TF2 Bold';
+      border-radius: 8px;
+      background-color: green;
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+}
+
 .buttonn {
       font-family: 'TF2 Bold';
+      border-radius: 8px;
       background-color: #336699;
       border: none;
       color: white;
@@ -31,6 +47,7 @@ p.leftsmall {
 
 .button {
       font-family: 'TF2 Bold';
+      border-radius: 8px;
       background-color: darkorange;
       border: none;
       color: white;
