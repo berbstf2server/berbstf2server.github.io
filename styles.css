@@ -3,7 +3,7 @@ i {background-color: #f7d1ad;}
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
-    width: 1%;
+    width: 200px;
 }
 td, th {
     border: 1px solid #aaaaaa;
