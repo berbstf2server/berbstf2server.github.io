@@ -1,5 +1,16 @@
 i {background-color: #f7d1ad;}
 
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 1%;
+}
+td, th {
+    border: 1px solid #aaaaaa;
+    text-align: left;
+    padding: 8px;
+	background-color: #555555;
+}
 
 p.leftsmall {
       font-family: 'TF2 Normal';
